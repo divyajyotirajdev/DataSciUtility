@@ -21,7 +21,12 @@ use `2d` to remove first data line
 cat ./*.csv >> filename.csv
 ```
 
-5. Move
+5. Check number of lines
+```
+wc -l filename.txt
+```
+
+6. Move
 ```
 mv sourcepath/filename.txt destfolder
 ```
