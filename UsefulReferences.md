@@ -4,4 +4,6 @@
 ### Core statistics
 - [Anova vid_khanacademy](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library)
 - [Chi-square vid_khanacademy](https://www.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests/v/chi-square-distribution-introduction)
+- [Gaussian Process](https://www.jgoertler.com/visual-exploration-gaussian-processes/)
+  Most often used for regression (eg. time series) but gives a probability / confidence of the predicted regression result
 
